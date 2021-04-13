@@ -1,1 +1,1 @@
-# Stocks-analysis-
+# Linear Regression
